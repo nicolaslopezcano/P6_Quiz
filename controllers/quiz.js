@@ -15,7 +15,7 @@ exports.load = (req, res, next, quizId) => {
                     {model: models.user, as: 'author'}
                 ]
             },
-            models.tip,
+
             {model: models.user, as: 'author'}
         ]
     })
