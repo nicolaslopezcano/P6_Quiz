@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="93c3d16a-fa55-4a5f-91c9-b03e79b32afc" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/controllers/tip.js" afterPath="$PROJECT_DIR$/controllers/tip.js" />
-      <change beforePath="$PROJECT_DIR$/quizzes.sqlite" afterPath="$PROJECT_DIR$/quizzes.sqlite" />
-      <change beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/node_modules/" />
@@ -280,7 +277,7 @@
       <workItem from="1527241669930" duration="4898000" />
       <workItem from="1528539129445" duration="949000" />
       <workItem from="1528553548219" duration="243000" />
-      <workItem from="1528554183480" duration="6034000" />
+      <workItem from="1528554183480" duration="6087000" />
     </task>
     <task id="LOCAL-00001" summary="practica7">
       <created>1528553769302</created>
@@ -296,11 +293,18 @@
       <option name="project" value="LOCAL" />
       <updated>1528554327327</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="practica 8">
+      <created>1528658616118</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1528658616118</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12130000" />
+    <option name="totallyTimeSpent" value="12183000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -382,7 +386,8 @@
     <MESSAGE value="practica 7" />
     <MESSAGE value="practica7" />
     <MESSAGE value="Merge branch 'practica6' into practica7&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;package-lock.json&#10;#&#9;views/layout.ejs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'practica6' into practica7&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;package-lock.json&#10;#&#9;views/layout.ejs" />
+    <MESSAGE value="practica 8" />
+    <option name="LAST_COMMIT_MESSAGE" value="practica 8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
