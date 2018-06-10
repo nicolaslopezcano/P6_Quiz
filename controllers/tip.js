@@ -102,7 +102,7 @@ exports.update = (req, res, next) => {
     tip.text = body.text;
     tip.accepted = false;
 
-    tip.save({fields: ["text"]})
+    tip.save({fields: ["text","accepted"]})
         .then(tip => {
             req.flash('success', 'Tip edited successfully.');
             res.redirect('/goback');
